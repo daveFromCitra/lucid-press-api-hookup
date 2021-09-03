@@ -1,0 +1,22 @@
+{
+  "name": "lucid-press-api-hookup",
+  "version": "1.0.0",
+  "description": "An API connection between LucidPress and PrintOS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daveFromCitra/lucid-press-api-hookup.git"
+  },
+  "author": "Dave \"the kid\" Blois",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daveFromCitra/lucid-press-api-hookup/issues"
+  },
+  "homepage": "https://github.com/daveFromCitra/lucid-press-api-hookup#readme",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
