@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/daveFromCitra/lucid-press-api-hookup#readme",
   "dependencies": {
-    "axios": "^0.21.1"
+    "axios": "^0.21.1",
+    "crypto-js": "^4.1.1",
+    "utf8": "^3.0.0"
   }
 }

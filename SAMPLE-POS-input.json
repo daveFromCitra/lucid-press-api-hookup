@@ -1,0 +1,99 @@
+{
+    "destination": {
+        "name": "hp.citracommunications"
+    },
+    "orderData": {
+        "printType": "digital",
+        "sourceOrderId": "24504",
+        "email": "MagnanDD@ah.org",
+        "misCode": "Infigo_Software",
+        "customerName": "Desiree Magnant",
+        "postbackAddress": "https://adventist.citracommunications.com/mishandler/15/Mis.PrintOSSiteFlow/StatusUpdate?orderId=24504",
+        "items": [
+            {
+                "description": "210881-A Sept. Patient Education: Stroke and Hypertension Be Fast Card (ES)",
+                "sourceItemId": "s2109",
+                "sku": "AH_StockItem",
+                "quantity": 100,
+                "shrinkWrap": false,
+                "unitWeight": 0.8000000006803886,
+                "extraData": {},
+                "components": [
+                    {
+                        "code": "Content",
+                        "fetch": true,
+                        "path": "https://adventist.citracommunications.com/CF/misassetdownload/4b2b58a8-df95-424b-9bcb-d196772b3c2d",
+                        "preflight": false,
+                        "pages": 2,
+                        "attributes": {}
+                    }
+                ]
+            },
+            {
+                "description": "210881-A Sept. Patient Education: Stroke and Hypertension Be Fast Card (ENG)",
+                "sourceItemId": "s2110",
+                "sku": "AH_Cards_5x7_Flat_2SD",
+                "quantity": 50,
+                "shrinkWrap": false,
+                "unitWeight": 0.8000000006803886,
+                "extraData": {},
+                "components": [
+                    {
+                        "code": "Content",
+                        "fetch": true,
+                        "path": "https://adventist.citracommunications.com/CF/misassetdownload/ee04f314-2d57-4022-b517-26c8f177dcb1",
+                        "preflight": false,
+                        "pages": 2,
+                        "attributes": {}
+                    }
+                ]
+            },
+            {
+                "description": "210881-F Sept. Patient Education: Stroke and Hypertension Be Fast Card (ENG/ES)",
+                "sourceItemId": "s2111",
+                "sku": "AH_Cards_5x7_Flat_2SD",
+                "quantity": 150,
+                "shrinkWrap": false,
+                "unitWeight": 0.8000000006803886,
+                "extraData": {},
+                "components": [
+                    {
+                        "code": "Content",
+                        "fetch": true,
+                        "path": "https://adventist.citracommunications.com/CF/misassetdownload/b62531c4-596f-439d-bf9b-c49503c732fc",
+                        "preflight": false,
+                        "pages": 2,
+                        "attributes": {}
+                    }
+                ]
+            }
+        ],
+        "stockItems": [],
+        "shipments": [
+            {
+                "shipByDate": "2021-09-07T13:59:39.737",
+                "shipTo": {
+                    "name": "Madeline Andrade",
+                    "address1": "216 Fresno St.",
+                    "town": "Avenal",
+                    "postcode": "93204",
+                    "state": "California",
+                    "isoCountry": "US",
+                    "country": "United States",
+                    "email": "MagnanDD@ah.org"
+                },
+                "carrier": {
+                    "code": "",
+                    "service": "",
+                    "alias": "fedexground"
+                }
+            }
+        ],
+        "extraData": {
+            "ShippingDescription": null,
+            "sci_id_116581": "45073",
+            "sci_id_116584": "45074",
+            "sci_id_116585": "45075"
+        }
+    }
+}

@@ -1,0 +1,469 @@
+{
+  "source": {
+    "id": "5992e18b7b608912008f2c3f",
+    "name": "hp.citracommunications"
+  },
+  "destination": {
+    "id": "5992e18b7b608912008f2c3f",
+    "name": "hp.citracommunications"
+  },
+  "files": [
+    "string"
+  ],
+  "logs": [
+    {}
+  ],
+  "api": "string",
+  "orderData": {
+    "attributes": [
+      null
+    ],
+    "tags": [
+      null
+    ],
+    "colour": "black",
+    "clientId": "string",
+    "printType": "string",
+    "sourceOrderId": "string",
+    "status": "string",
+    "cancelledDate": "2021-09-09T21:54:44.077Z",
+    "completed": "2021-09-09T21:54:44.077Z",
+    "slaTimestamp": "2021-09-09T21:54:44.077Z",
+    "error": {},
+    "date": "2021-09-09T21:54:44.077Z",
+    "email": "string",
+    "instructions": "string",
+    "misCode": "string",
+    "amount": 0,
+    "reprint": false,
+    "reprintReason": "string",
+    "reprintCount": 0,
+    "currency": "string",
+    "shippingListTemplateId": "string",
+    "customerName": "string",
+    "purchaseOrderNumber": "string",
+    "tax": 0,
+    "consolidatedInvoice": false,
+    "extraData": {},
+    "items": [
+      {
+        "attributes": [
+          null
+        ],
+        "barcode": "string",
+        "batchId": "string",
+        "batchNumber": "string",
+        "batchBarcode": "string",
+        "completed": "2021-09-09T21:54:44.077Z",
+        "description": "string",
+        "dispatchAlert": "string",
+        "extraData": {},
+        "binding": "string",
+        "folding": "string",
+        "orderItemId": "string",
+        "productId": "string",
+        "reprintCount": 0,
+        "quantity": 0,
+        "printQuantity": 0,
+        "shipmentIndex": 0,
+        "sku": "string",
+        "sourceItemId": "string",
+        "totalPages": 0,
+        "status": "string",
+        "productDescription": "string",
+        "unitWeight": 0,
+        "unitCost": 0,
+        "unitPrice": 0,
+        "scanned": 0,
+        "components": [
+          {
+            "attributes": {},
+            "barcode": "string",
+            "barcodes": [
+              {
+                "placeBarcode": false,
+                "x": 0,
+                "y": 0,
+                "width": 0,
+                "height": 0,
+                "pages": "string",
+                "horizontalAnchor": "string",
+                "verticalAnchor": "string",
+                "horizontalPadding": 0,
+                "verticalPadding": 0,
+                "background": "string",
+                "foreground": "string",
+                "showText": false,
+                "type": "string",
+                "rotation": 0,
+                "units": "string",
+                "field": "string"
+              }
+            ],
+            "code": "string",
+            "completed": "2021-09-09T21:54:44.077Z",
+            "fetch": false,
+            "extraData": {},
+            "fileId": "string",
+            "fileImpositionId": "string",
+            "batchImpositionId": "string",
+            "alternateImpositionIds": [
+              "string"
+            ],
+            "duplicate": 0,
+            "errorCheck": true,
+            "legacyWorkQueue": false,
+            "infotech": false,
+            "infotechCopies": 0,
+            "infotechPadding": 0,
+            "infotechExternal": false,
+            "infotechImpose": false,
+            "infotechTemplateId": "string",
+            "instructions": "string",
+            "localFile": false,
+            "path": "string",
+            "pages": 0,
+            "paperId": "string",
+            "preflight": false,
+            "preflightProfile": "string",
+            "preflightProfileId": "string",
+            "proof": false,
+            "route": [
+              {}
+            ],
+            "sourceComponentId": "string",
+            "reprintCount": 0,
+            "status": "string",
+            "ticketTemplate": "string",
+            "type": "press",
+            "colour": {
+              "side1": "string",
+              "side2": "string"
+            },
+            "finish": {
+              "side1": "string",
+              "side2": "string"
+            },
+            "height": 0,
+            "simplex": false,
+            "weight": "string",
+            "width": 0,
+            "depth": 0,
+            "workQueue": {
+              "workplan": "string",
+              "initialState": {}
+            },
+            "paper": "string",
+            "nup": 0,
+            "impositionId": "string",
+            "preflightImageRes": 0,
+            "autoflow": {
+              "flowId": "string",
+              "planId": "string"
+            }
+          }
+        ]
+      }
+    ],
+    "stockItems": [
+      {
+        "code": "string",
+        "name": "string",
+        "quantity": 0,
+        "barcode": "string",
+        "stockId": "string",
+        "scanned": 0,
+        "shipmentIndex": 0,
+        "unitPrice": 0,
+        "weight": 0,
+        "sourceItemId": "string"
+      }
+    ],
+    "shipments": [
+      {
+        "accountId": "string",
+        "attachments": [
+          {
+            "path": "string",
+            "contentType": "string",
+            "type": "string",
+            "fetch": true
+          }
+        ],
+        "boxId": "string",
+        "boxNumber": 0,
+        "boxStatus": "string",
+        "cancelledDate": "2021-09-09T21:54:44.077Z",
+        "canShipEarly": true,
+        "carrier": {
+          "code": "string",
+          "service": "string",
+          "alias": "string",
+          "serviceId": "string"
+        },
+        "created": "2021-09-09T21:54:44.077Z",
+        "componentIds": [
+          "string"
+        ],
+        "commercialInvoiceUrl": "string",
+        "cost": {
+          "value": 0,
+          "currency": "string"
+        },
+        "dispatchAlert": "string",
+        "items": [
+          {
+            "attributes": [
+              null
+            ],
+            "barcode": "string",
+            "batchId": "string",
+            "batchNumber": "string",
+            "batchBarcode": "string",
+            "completed": "2021-09-09T21:54:44.077Z",
+            "description": "string",
+            "dispatchAlert": "string",
+            "extraData": {},
+            "binding": "string",
+            "folding": "string",
+            "orderItemId": "string",
+            "productId": "string",
+            "reprintCount": 0,
+            "quantity": 0,
+            "printQuantity": 0,
+            "shipmentIndex": 0,
+            "sku": "string",
+            "sourceItemId": "string",
+            "totalPages": 0,
+            "status": "string",
+            "productDescription": "string",
+            "unitWeight": 0,
+            "unitCost": 0,
+            "unitPrice": 0,
+            "scanned": 0,
+            "components": [
+              {
+                "attributes": {},
+                "barcode": "string",
+                "barcodes": [
+                  {
+                    "placeBarcode": false,
+                    "x": 0,
+                    "y": 0,
+                    "width": 0,
+                    "height": 0,
+                    "pages": "string",
+                    "horizontalAnchor": "string",
+                    "verticalAnchor": "string",
+                    "horizontalPadding": 0,
+                    "verticalPadding": 0,
+                    "background": "string",
+                    "foreground": "string",
+                    "showText": false,
+                    "type": "string",
+                    "rotation": 0,
+                    "units": "string",
+                    "field": "string"
+                  }
+                ],
+                "code": "string",
+                "completed": "2021-09-09T21:54:44.077Z",
+                "fetch": false,
+                "extraData": {},
+                "fileId": "string",
+                "fileImpositionId": "string",
+                "batchImpositionId": "string",
+                "alternateImpositionIds": [
+                  "string"
+                ],
+                "duplicate": 0,
+                "errorCheck": true,
+                "legacyWorkQueue": false,
+                "infotech": false,
+                "infotechCopies": 0,
+                "infotechPadding": 0,
+                "infotechExternal": false,
+                "infotechImpose": false,
+                "infotechTemplateId": "string",
+                "instructions": "string",
+                "localFile": false,
+                "path": "string",
+                "pages": 0,
+                "paperId": "string",
+                "preflight": false,
+                "preflightProfile": "string",
+                "preflightProfileId": "string",
+                "proof": false,
+                "route": [
+                  {}
+                ],
+                "sourceComponentId": "string",
+                "reprintCount": 0,
+                "status": "string",
+                "ticketTemplate": "string",
+                "type": "press",
+                "colour": {
+                  "side1": "string",
+                  "side2": "string"
+                },
+                "finish": {
+                  "side1": "string",
+                  "side2": "string"
+                },
+                "height": 0,
+                "simplex": false,
+                "weight": "string",
+                "width": 0,
+                "depth": 0,
+                "workQueue": {
+                  "workplan": "string",
+                  "initialState": {}
+                },
+                "paper": "string",
+                "nup": 0,
+                "impositionId": "string",
+                "preflightImageRes": 0,
+                "autoflow": {
+                  "flowId": "string",
+                  "planId": "string"
+                }
+              }
+            ]
+          }
+        ],
+        "itemIds": [
+          "string"
+        ],
+        "jobIds": [
+          "string"
+        ],
+        "labelName": "string",
+        "labelNotRequired": false,
+        "orderId": "string",
+        "orderShipmentId": "string",
+        "returnAddress": {
+          "name": "string",
+          "companyName": "string",
+          "address1": "string",
+          "address2": "string",
+          "address3": "string",
+          "town": "string",
+          "postcode": "string",
+          "state": "string",
+          "isoCountry": "string",
+          "email": "string",
+          "phone": "string"
+        },
+        "shipByDate": "2021-09-09T21:54:44.077Z",
+        "slaDays": 0,
+        "shipmentIndex": 0,
+        "shippedDate": "2021-09-09T21:54:44.077Z",
+        "shipTo": {
+          "name": "string",
+          "companyName": "string",
+          "address1": "string",
+          "address2": "string",
+          "address3": "string",
+          "town": "string",
+          "postcode": "string",
+          "state": "string",
+          "isoCountry": "string",
+          "country": "string",
+          "email": "string",
+          "phone": "string"
+        },
+        "singleItem": false,
+        "trackingRequired": false,
+        "sourceOrderId": "string",
+        "sourceAccountId": "string",
+        "sourceShipmentId": "string",
+        "status": "string",
+        "stockItems": [
+          {
+            "code": "string",
+            "name": "string",
+            "quantity": 0,
+            "barcode": "string",
+            "stockId": "string",
+            "scanned": 0,
+            "shipmentIndex": 0,
+            "unitPrice": 0,
+            "weight": 0,
+            "sourceItemId": "string"
+          }
+        ],
+        "trackingNumber": "string",
+        "trackingUrl": "string",
+        "packages": [
+          {
+            "id": "string",
+            "packageId": "string",
+            "name": "string",
+            "index": 0,
+            "volume": 0,
+            "items": [
+              {
+                "barcode": "string",
+                "description": "string",
+                "count": 0,
+                "itemId": "string",
+                "sourceItemId": "string",
+                "value": 0,
+                "cost": 0,
+                "type": "string",
+                "weight": 0
+              }
+            ],
+            "image": "string",
+            "weight": 0,
+            "width": 0,
+            "shipmentIndex": 0,
+            "height": 0,
+            "depth": 0,
+            "totalWeight": 0,
+            "totalCost": 0,
+            "totalValue": 0,
+            "weightUnit": "string",
+            "currency": "string",
+            "dimensionUnit": "string",
+            "trackingNumber": "string",
+            "trackingUrl": "string",
+            "barcode": "string",
+            "SSCCbarcode": "string",
+            "labels": [
+              {}
+            ],
+            "extra": {}
+          }
+        ],
+        "wallId": "string",
+        "shippingListTemplateId": "string",
+        "scannedQuantity": 0,
+        "expectedQuantity": 0,
+        "printJobs": [
+          "string"
+        ],
+        "agentJobs": [
+          "string"
+        ],
+        "manuallyPacked": false,
+        "carrierFields": {},
+        "clientId": "string",
+        "client": {},
+        "order": {},
+        "pspBranding": true,
+        "wall": {},
+        "partial": false
+      }
+    ],
+    "additionalInformation": "string",
+    "messages": [
+      {
+        "timestamp": "2021-09-09T21:54:44.077Z",
+        "text": "string",
+        "userId": "string",
+        "userName": "string"
+      }
+    ]
+  }
+}
